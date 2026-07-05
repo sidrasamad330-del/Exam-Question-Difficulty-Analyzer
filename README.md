@@ -57,21 +57,25 @@ Exam-Question-Difficulty-Analyzer/
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
 ### Main Screen
-![Main Screen](screenshot/main-screen.png)
+![Main Screen](main-screen.png)
 
 ### Question Analyzer
-![Question Analyzer](screenshot/question-analyzer.png)
-![Question Analyzer](screenshot/question-analyzer 2.png)
+![Question Analyzer](question-analyzer.png)
+
+### Question Analyzer 2
+![Question Analyzer 2](question-analyzer%202.png)
 
 ### Prediction Result
-![Prediction Result](screenshot/prediction-result.png)
-![Prediction Result](screenshot/prediction-result (2).png)
----
+![Prediction Result](prediction-result.png)
+
+### Prediction Result 2
+![Prediction Result 2](prediction-result%202.png)
 
 ## Author
 
-*Sidra Khan*
+Sidra Khan
 
 AI & Machine Learning Student
