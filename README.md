@@ -61,35 +61,22 @@ Exam-Question-Difficulty-Analyzer/
 ├── requirements.txt
 ├── README.md
 │
-└── screenshots/
-    ├── main-screen.png
-    ├── question-analyzer.png
-    ├── question-analyzer-2.png
-    ├── prediction-result.png
-    └── prediction-result-2.png
+└── screenshots
 
 
 ---
 
-## 📸 Screenshots
+## AI Usage in This Project
 
-### Main Screen
-![Main Screen](main-screen.png)
-
-### Question Analyzer
-![Question Analyzer](question-analyzer.png)
-
-### Question Analyzer 2
-![Question Analyzer 2](question-analyzer2.png)
-
-### Prediction Result
-![Prediction Result](prediction-result.png)
-
-### Prediction Result 2
-![Prediction Result 2](prediction-result-2.png)
+- Used AI(ChatGPT) to understand project requirements  
+- Helped debug Python code and fix errors  
+- Assisted in improving GUI design  
+- Used for explaining logic and concepts  
+- Final coding, testing, and implementation were done by the student
 
 ## Author
 
 Sidra Khan
+GitHub: https://github.com/sidrasamad330-del
 
 AI & Machine Learning Student
