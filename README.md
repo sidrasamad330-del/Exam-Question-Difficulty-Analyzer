@@ -51,8 +51,7 @@ The application provides a simple and user-friendly graphical interface built wi
 
 ## 📂 Project Structure
 
-'''
-Exam-Question-Difficulty-Analyzer/
+Exam-Question-Difficulty-Analyzer
 
 ├── main.py
 
