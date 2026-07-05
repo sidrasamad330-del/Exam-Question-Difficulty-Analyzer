@@ -48,15 +48,21 @@ Exam-Question-Difficulty-Analyzer/
 │
 ├── main.py
 ├── model.py
+├── utils.py
 ├── questions.csv
 ├── requirements.txt
 ├── README.md
+│
 └── screenshots/
+    ├── main-screen.png
+    ├── question-analyzer.png
+    ├── question-analyzer-2.png
+    ├── prediction-result.png
+    └── prediction-result-2.png
 
 
 ---
 
-## 📸 Screenshots
 ## 📸 Screenshots
 
 ### Main Screen
@@ -66,13 +72,13 @@ Exam-Question-Difficulty-Analyzer/
 ![Question Analyzer](question-analyzer.png)
 
 ### Question Analyzer 2
-![Question Analyzer 2](question-analyzer%202.png)
+![Question Analyzer 2](question-analyzer2.png)
 
 ### Prediction Result
 ![Prediction Result](prediction-result.png)
 
 ### Prediction Result 2
-![Prediction Result 2](prediction-result%202.png)
+![Prediction Result 2](prediction-result-2.png)
 
 ## Author
 
