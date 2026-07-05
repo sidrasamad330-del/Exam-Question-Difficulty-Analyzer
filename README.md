@@ -30,13 +30,21 @@ The application provides a simple and user-friendly graphical interface built wi
 
 ## How to Run
 
-1. Clone the repository.
-2. Open the project in VS Code.
-3. Install CustomTkinter.
-4. Run:
+1. Clone this repository:
+   bash
+   git clone https://github.com/sidrasamad330-del/Exam-Question-Difficulty-Analyzer.git
+   
+2. Open the project folder in Visual Studio Code.
 
-bash
-python main.py
+3. Install the required library:
+   bash
+   pip install customtkinter
+   
+4. Run the application:
+   bash
+   python main.py
+   
+5. The application will open. Click *Start Analysis, enter an exam question, select the subject and question type, then       click **Analyze* to view the predicted difficulty.
 
 
 ---
